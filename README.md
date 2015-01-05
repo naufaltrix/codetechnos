@@ -1,4 +1,4 @@
 codetechnos
 ===========
 
-Projek Probadi Naufaltrxi
+Projek Pribadi Naufaltrix
